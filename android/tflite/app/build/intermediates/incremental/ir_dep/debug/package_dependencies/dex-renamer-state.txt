@@ -1,0 +1,4 @@
+#Sat Jun 23 01:17:07 CEST 2018
+base.0=/home/student/workspace/tfForPoets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/44
+path.0=classes.dex
+renamed.0=classes.dex
